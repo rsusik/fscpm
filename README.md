@@ -62,7 +62,7 @@ cpm_mfaoso_u4_k2.exe "D:/patterns.r100/patterns.dna.200MB.32.bin" 32 "D:/sets/dn
 ```
 
 The files with patterns has all the patterns written one by one with no separator.
-Algorithm reads *m* fist bytes as the first pattern, then next *m* bytes as the second and so on.
+Algorithm reads *m* first bytes as the first pattern, then next *m* bytes as the second and so on.
 
 **For testing purpose test_cf_win.py can be used.**
 
