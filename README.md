@@ -1,5 +1,7 @@
 # Fast and Simple Circular Pattern Matching
 
+**Note:** *more user friendly linux version is placed in linux folder*
+
 ## About
 This source code was written for research purpose [SGD13] and has a minimal error checking.
 The code may be not be very readable and comments may not be adequate.
@@ -23,6 +25,7 @@ The FAOSO algorithm was orginally written by Kimmo Fredriksson.
 
 * Windows OS
 * C++ Compiler - MS Visual Studio
+* Python 2 (for testing)
 
 ## Compilation
 
