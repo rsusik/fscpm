@@ -73,6 +73,19 @@ python test.py cpm_cf.exe,cpm_so.exe,cpm_mfaoso_u4_k2.exe english.200MB 10 8,16,
 
 *Please replace the paths in the test.py*.
 
+## Citing FSCPM
+```
+@incollection {SGD13,
+  author    = {R. Susik and Sz. Grabowski and S. Deorowicz},
+  title     = {Fast and Simple Circular Pattern Matching},
+  booktitle = {Man-Machine Interactions 3},
+  year      = {2014},
+  pages     = {537--544},
+  publisher = {Springer},
+  isbn      = {978-3-319-02309-0}
+}
+```
+
 ## References
 
 [SGD13] R. Susik, Sz. Grabowski, S. Deorowicz.
