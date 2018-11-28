@@ -1,7 +1,7 @@
 # Fast and Simple Circular Pattern Matching (linux)
 
 ## About
-This is linux wersion of https://github.com/rsusik/fscpm
+This is linux version of https://github.com/rsusik/fscpm
 Additionaly the testing script was updated.
 
 ## Requirements
