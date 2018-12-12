@@ -1,6 +1,6 @@
 # Fast and Simple Circular Pattern Matching
 
-**Note:** *more user friendly linux version is placed in linux folder*
+**Note:** *more user friendly linux version is placed in [linux folder](https://github.com/rsusik/fscpm/tree/master/linux).*
 
 ## About
 This source code was written for research purpose [SGD13] and has a minimal error checking.
