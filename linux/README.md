@@ -8,8 +8,8 @@ In addition the testing script is improved and updated.
 
 * Windows OS
 * C++ Compiler - MS Visual Studio
-* Python 3 (for testing)
-* Docker (optional)
+* Python 3 (for [testing](#testing))
+* [Docker](#docker) (optional)
 
 ## Compilation
 
