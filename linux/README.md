@@ -21,7 +21,7 @@ cd fscpm/linux
 make all
 ```
 
-## Usage
+## Testing
 
 For testing please use `test.py` script. The syntax is following:
 ```
