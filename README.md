@@ -14,7 +14,7 @@ There are a couple of algorithms proposed:
 * cpm_cf     - counting filter [JTU96, N97] based solution,
 * cpm_so     - shift-or [BYG92] based solution (run twice),
 * cpm_fso    - Fast Shift-Or [FG09] based solution (run twice),
-* cpm_faoso  - Fast Average Optimal Shift-Or [FG09] based solution (run twice).
+* cpm_faoso  - Fast Average Optimal Shift-Or [FG09] based solution (run twice),
 * cpm_mso    - Multipattern Shift-Or [SGD13] (SO with character classes),
 * cpm_mfso   - Multipattern Fast Shift-Or [SGD13] (FSO with character classes),
 * cpm_mfaoso - Multipattern Fast Average Optimal Shift-Or [SGD13] (FAOSO with character classes).
